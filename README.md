@@ -1,6 +1,6 @@
 # FocusAble — Accessible Task Manager & Focus Dashboard
 
-FocusAble is a portfolio project for an M.Sc. Human-Computer Interaction application at the University of Siegen. It demonstrates accessible interaction design in a practical productivity tool.
+FocusAble is a portfolio project . It demonstrates accessible interaction design in a practical productivity tool.
 
 Repository: https://github.com/Fahari04/accessible-task-manager-focus-dashboard  
 Live demo: `LIVE_DEMO_URL`
